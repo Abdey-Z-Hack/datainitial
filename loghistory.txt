@@ -1,0 +1,185 @@
+This log contains debugging and error messages from all runs.
+test
+Traceback (most recent call last):
+  File "core\libengine.py", line 2934, in make_start_script
+  File "urllib2.pyc", line 124, in urlopen
+  File "urllib2.pyc", line 389, in open
+  File "urllib2.pyc", line 502, in http_response
+  File "urllib2.pyc", line 427, in error
+  File "urllib2.pyc", line 361, in _call_chain
+  File "urllib2.pyc", line 510, in http_error_default
+HTTPError: HTTP Error 403: Forbidden
+lookup art/fg/../general/logosmall
+art/fg/../general/logosmall.txt art/general/logosmall.png None
+<open file 'art/general/logosmall.png', mode 'rb' at 0x036EEB10>
+minimize
+maximize
+minimize
+maximize
+minimize
+maximize
+This log contains debugging and error messages from all runs.
+test
+Traceback (most recent call last):
+  File "core\libengine.py", line 2934, in make_start_script
+  File "urllib2.pyc", line 124, in urlopen
+  File "urllib2.pyc", line 389, in open
+  File "urllib2.pyc", line 502, in http_response
+  File "urllib2.pyc", line 427, in error
+  File "urllib2.pyc", line 361, in _call_chain
+  File "urllib2.pyc", line 510, in http_error_default
+HTTPError: HTTP Error 403: Forbidden
+lookup art/fg/../general/logosmall
+art/fg/../general/logosmall.txt art/general/logosmall.png None
+<open file 'art/general/logosmall.png', mode 'rb' at 0x033233E0>
+minimize
+maximize
+This log contains debugging and error messages from all runs.
+test
+Traceback (most recent call last):
+  File "core\libengine.py", line 2934, in make_start_script
+  File "urllib2.pyc", line 124, in urlopen
+  File "urllib2.pyc", line 389, in open
+  File "urllib2.pyc", line 502, in http_response
+  File "urllib2.pyc", line 427, in error
+  File "urllib2.pyc", line 361, in _call_chain
+  File "urllib2.pyc", line 510, in http_error_default
+HTTPError: HTTP Error 403: Forbidden
+lookup art/fg/../general/logosmall
+art/fg/../general/logosmall.txt art/general/logosmall.png None
+<open file 'art/general/logosmall.png', mode 'rb' at 0x033113E0>
+starting game games/A New World Of Turnabouts A New World Of Turnabouts None casemenu
+not script games/A New World Of Turnabouts/A New World Of Turnabouts.txt
+starting game games/A New World Of Turnabouts intro casemenu
+building registry for .
+building registry for ./games
+building registry for ./games/A New World Of Turnabouts
+set game to games/A New World Of Turnabouts
+setting it
+customizing defaults
+resetting defaults
+lookup art/general/selection_chapter
+art/general/selection_chapter.txt games/A New World Of Turnabouts/art/general/selection_chapter.png None
+<open file 'games/A New World Of Turnabouts/art/general/selection_chapter.png', mode 'rb' at 0x03209930>
+lookup art/general/arrow_right
+art/general/arrow_right.txt games/A New World Of Turnabouts/art/general/arrow_right.png None
+<open file 'games/A New World Of Turnabouts/art/general/arrow_right.png', mode 'rb' at 0x03209930>
+building registry for .
+building registry for ./games
+building registry for ./games/A New World Of Turnabouts
+building registry for ./games/A New World Of Turnabouts/A New World Of Turnabouts
+init: g:games/A New World Of Turnabouts/A New World Of Turnabouts choice:A New World Of Turnabouts
+lookup art/bg/caseart
+art/bg/caseart.txt games/A New World Of Turnabouts/art/bg/caseart.png None
+<open file 'games/A New World Of Turnabouts/art/bg/caseart.png', mode 'rb' at 0x03209930>
+starting game games/A New World Of Turnabouts/A New World Of Turnabouts A New World Of Turnabouts None nomenu
+not script games/A New World Of Turnabouts/A New World Of Turnabouts/A New World Of Turnabouts.txt
+starting game games/A New World Of Turnabouts/A New World Of Turnabouts intro nomenu
+building registry for .
+building registry for ./games
+building registry for ./games/A New World Of Turnabouts
+building registry for ./games/A New World Of Turnabouts/A New World Of Turnabouts
+set game to games/A New World Of Turnabouts/A New World Of Turnabouts
+setting it
+customizing defaults
+resetting defaults
+resetting defaults
+lookup art/general/textbox_2
+art/general/textbox_2.txt games/A New World Of Turnabouts/art/general/textbox_2.png None
+<open file 'games/A New World Of Turnabouts/art/general/textbox_2.png', mode 'rb' at 0x05DDEB60>
+lookup art/fg/pointer
+art/fg/pointer.txt games/A New World Of Turnabouts/art/fg/pointer.png games/A New World Of Turnabouts/art/fg/pointer.txt
+<open file 'games/A New World Of Turnabouts/art/fg/pointer.png', mode 'rb' at 0x05DDEC50>
+lookup art/general/press/press_old
+art/general/press/press_old.txt games/A New World Of Turnabouts/art/general/press/press_old.png None
+<open file 'games/A New World Of Turnabouts/art/general/press/press_old.png', mode 'rb' at 0x05DDEBB0>
+lookup art/general/press/press_old_high
+art/general/press/press_old_high.txt games/A New World Of Turnabouts/art/general/press/press_old_high.png None
+<open file 'games/A New World Of Turnabouts/art/general/press/press_old_high.png', mode 'rb' at 0x05DDEBB0>
+lookup art/general/press/present_old
+art/general/press/present_old.txt games/A New World Of Turnabouts/art/general/press/present_old.png None
+<open file 'games/A New World Of Turnabouts/art/general/press/present_old.png', mode 'rb' at 0x05DDEBB0>
+lookup art/general/press/present_old_high
+art/general/press/present_old_high.txt games/A New World Of Turnabouts/art/general/press/present_old_high.png None
+<open file 'games/A New World Of Turnabouts/art/general/press/present_old_high.png', mode 'rb' at 0x05DDEBB0>
+lThis log contains debugging and error messages from all runs.
+test
+Traceback (most recent call last):
+  File "core\libengine.py", line 2934, in make_start_script
+  File "urllib2.pyc", line 124, in urlopen
+  File "urllib2.pyc", line 389, in open
+  File "urllib2.pyc", line 502, in http_response
+  File "urllib2.pyc", line 427, in error
+  File "urllib2.pyc", line 361, in _call_chain
+  File "urllib2.pyc", line 510, in http_error_default
+HTTPError: HTTP Error 403: Forbidden
+lookup art/fg/../general/logosmall
+art/fg/../general/logosmall.txt art/general/logosmall.png None
+<open file 'art/general/logosmall.png', mode 'rb' at 0x033113E0>
+changed settings for display
+changed settings for sound
+ookup art/bg/main
+art/bg/main.txt games/A New World Of Turnabouts/art/bg/main.png None
+<open file 'games/A New World Of Turnabouts/art/bg/main.png', mode 'rb' at 0x05DDEBB0>
+lookup art/general/arrow_big
+art/general/arrow_big.txt games/A New World Of Turnabouts/art/general/arrow_big.png games/A New World Of Turnabouts/art/general/arrow_big.txt
+<open file 'games/A New World Of Turnabouts/art/general/arrow_big.png', mode 'rb' at 0x05DDEC00>
+lookup art/fg/scanlines
+art/fg/scanlines.txt art/fg/scanlines.png None
+<open file 'art/fg/scanlines.png', mode 'rb' at 0x05DDEBB0>
+lookup art/general/bigbutton/border
+art/general/bigbutton/border.txt games/A New World Of Turnabouts/art/general/bigbutton/border.png None
+<open file 'games/A New World Of Turnabouts/art/general/bigbutton/border.png', mode 'rb' at 0x05DDEBB0>
+start subscript scene1/show_court_record_button
+lookup art/general/empty
+art/general/empty.txt games/A New World Of Turnabouts/art/general/empty.png None
+<open file 'games/A New World Of Turnabouts/art/general/empty.png', mode 'rb' at 0x05DDEC00>
+no macro for sound
+new command: sound /
+no macro for spd
+new command: spd 0.3
+end subscript scene1/show_court_record_button
+no macro for p
+new command: p 70
+no macro for next
+new command: next 
+start subscript scene1/hide_court_record_button
+lookup art/general/empty
+art/general/empty.txt games/A New World Of Turnabouts/art/general/empty.png None
+<open file 'games/A New World Of Turnabouts/art/general/empty.png', mode 'rb' at 0x05DDECA0>
+end subscript scene1/hide_court_record_button
+start subscript scene1/show_court_record_button
+lookup art/general/empty
+art/general/empty.txt games/A New World Of Turnabouts/art/general/empty.png None
+<open file 'games/A New World Of Turnabouts/art/general/empty.png', mode 'rb' at 0x05DDEBB0>
+no macro for sound
+new command: sound /
+no macro for spd
+new command: spd 0.5
+end subscript scene1/show_court_record_button
+no macro for p
+new command: p 70
+no macro for next
+new command: next 
+start subscript scene1/hide_court_record_button
+lookup art/general/empty
+art/general/empty.txt games/A New World Of Turnabouts/art/general/empty.png None
+<open file 'games/A New World Of Turnabouts/art/general/empty.png', mode 'rb' at 0x05DDEBB0>
+end subscript scene1/hide_court_record_button
+start subscript scene1/show_court_record_button
+lookup art/general/empty
+art/general/empty.txt games/A New World Of Turnabouts/art/general/empty.png None
+<open file 'games/A New World Of Turnabouts/art/general/empty.png', mode 'rb' at 0x05DDECF0>
+no macro for sound
+new command: sound /
+no macro for f
+new command: f 
+end subscript scene1/show_court_record_button
+no macro for s
+new command: s 25 nowait
+no macro for spd
+new command: spd 0.3
+minimize
+maximize
+no macro for p
+new command: p 70
